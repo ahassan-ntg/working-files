@@ -1,0 +1,139 @@
+#Java Sessions
+    - Session #1
+
+        - Ref
+
+            https://www.w3schools.com/java/java_ref_keywords.asp
+            http://swe2022.webnode.com/
+            https://swe2022.webnode.page/user-interface-design/
+
+        - For Regular Expression , we have old record by Dr Khaled
+
+            Part_1:
+                https://youtu.be/W414lrQ0Mi0
+
+
+            Part_2:
+                https://youtu.be/4h--b6t1PhM
+
+    Record
+        https://ntgegypt-my.sharepoint.com/:v:/g/personal/yghandor_ntgclarity_com/EQpOiw6HuztBkBbgd39oqGIB8Cd4oCI-bbT60CqQBU6u-Q?e=9vMaNy
+
+
+        please if you have time, solve these problems too: (in Java)
+        - https://leetcode.com/problems/number-of-good-pairs/
+        - https://leetcode.com/problems/roman-to-integer
+        - https://leetcode.com/problems/fizz-buzz
+        - https://leetcode.com/problems/valid-anagram/
+
+    -Session #2
+
+        Record
+            https://ntgegypt-my.sharepoint.com/:v:/g/personal/ahassan_ntgclarity_com/EVI4k7kyVwRNiXq-IFb-pMwBgym_6nXpcd-AfxThOxXusg?e=TcjCFR
+        LeetCode problems:
+            - https://leetcode.com/problems/power-of-three/ --> recursively
+            - https://leetcode.com/problems/length-of-last-word/
+            - https://leetcode.com/problems/summary-ranges/
+            - https://leetcode.com/problems/sqrtx
+
+            https://www.javatpoint.com/java-tutorial
+
+        Design Pattern
+            https://www.youtube.com/playlist?list=PLF206E906175C7E07
+
+    - Session #3
+        references:
+            - https://www.javatpoint.com/collections-in-java
+            - https://drive.google.com/drive/folders/1CvAxLbiP90b8nghi9m-hiSBII6_v5yes?usp=drive_link
+            - https://drive.google.com/drive/folders/10pKUaOZufoTjve0-VGjR705JHld7l7D2?usp=drive_link
+            - https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html
+
+        Self-learning:
+            - Generics in Java
+            - Multi-threading, concurrency and synchronization, and the Java collections that support them
+            - Random number generation in Java
+            - Behavioral design patterns: iterator
+            - Structural design patterns: composite
+
+        LeetCode problems:
+            - https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+            - https://leetcode.com/problems/valid-parentheses/
+            - https://leetcode.com/problems/sqrtx/ --> in less than O(n)
+            - https://leetcode.com/problems/missing-number/description/ --> using Binary Search
+            - https://leetcode.com/problems/search-insert-position
+
+            https://leetcode.com/problems/implement-stack-using-queues/
+
+            https://leetcode.com/problems/implement-queue-using-stacks/
+
+        Self-learning:
+            - Other implementations of Map interface.
+            - Hashing a user-defined class object ( using it as a key in a map or set).
+            - JDK, JRE and JVM.
+            - Java Reflection
+
+        Record
+
+            https://ntgegypt-my.sharepoint.com/:v:/g/personal/ahassan_ntgclarity_com/EU_EGElgA1VOpCgLtPbR5s8BIqXleU6_uIPO8Mt7mBDp6Q?e=6v2ppN
+
+    -Session #4
+
+        LeetCode problems:
+                - https://leetcode.com/problems/number-of-recent-calls/
+                - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+                - https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+                - https://leetcode.com/problems/jewels-and-stones/ --> in O( N )
+                - https://leetcode.com/problems/root-equals-sum-of-children/
+                - https://leetcode.com/problems/number-of-good-pairs/ --> in O( N )
+                - https://leetcode.com/problems/middle-of-the-linked-list/
+                - https://leetcode.com/problems/palindrome-linked-list/
+                - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+
+        Record
+
+            https://ntgegypt-my.sharepoint.com/:v:/g/personal/ahassan_ntgclarity_com/EfKyn-eAydpGsQEwtievIRkBMznb06oNM7YAhGKnn-262g?e=HJVror
+
+
+    -Session #5
+
+        Courses on swe2022.webnode.com that would help:
+        - Algorithms (2y-1t) (Lecs)
+        - Database Management Systems (3y-1t) (Lecs and Labs)
+        - Software Engineering (3y-2t) (Lecs)
+        - Object Oriented Design Patterns (3y-2t) (Lecs)
+        - Software Project Management (4y-1t) (Labs)
+        - Web Engineering (4y-1t) (Lecs)
+        - User Interface Design (4y-2t) (Lecs)
+
+        Other resources in addition:
+        - https://www.javatpoint.com/dbms-tutorial
+        - https://www.javatpoint.com/sql-tutorial
+        - https://www.javatpoint.com/pl-sql-tutorial
+        - https://www.javatpoint.com/postgresql-tutorial
+        - https://www.javatpoint.com/oracle-tutorial
+
+        Java advanced:
+        - https://www.javatpoint.com/java-io
+        - https://www.javatpoint.com/java-networking
+        - https://www.javatpoint.com/java-date
+        - https://www.javatpoint.com/java-jdbc (after studying DBMS)
+        - https://www.javatpoint.com/New-features-in-java --> very important
+        - https://www.javatpoint.com/internationalization-in-java
+
+
+        If you have the time and you want to have some background about the Spring Boot framework beforehand:
+        - https://docs.google.com/spreadsheets/d/1VKB3TWvuYSxNJ3i1sNSzWDwPHgJdci97aZGIs_THCrM/edit#gid=0
+
+        LeetCode problems:
+
+                - https://leetcode.com/problems/symmetric-tree/
+                - https://leetcode.com/problems/path-sum/
+                - https://leetcode.com/problems/word-search/
+                - https://leetcode.com/problems/path-with-maximum-probability
+        Record
+
+                https://ntgegypt-my.sharepoint.com/:v:/g/personal/ahassan_ntgclarity_com/EY_r674hO4pEvYS0eRQpJcMBuAcIuGPqLkJj3fr9gDmLZg?e=fzgafl
+                https://ntgegypt-my.sharepoint.com/:v:/g/personal/ahassan_ntgclarity_com/EW7htipyqelIucDbrIoDExUBgzmBQf5sjD8tfGH1OGQGww?e=XgFnKS
+
+#Angular Session
+
